@@ -1,0 +1,7 @@
+*.class
+**/*.class
+
+data/
+
+.env
+.venv
